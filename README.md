@@ -2,7 +2,7 @@
 
 <h1 align="left">
   <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="28" />
-  Hi, I'm <strong>Midhun NK</strong>
+  Hi, I'm <strong>Naveen Kumar</strong>
 </h1>
 
 <h3>Full Stack Developer | MERN • Python • Flutter</h3>
@@ -17,7 +17,7 @@
 
   <p>
     <img src="https://img.shields.io/badge/🌍_India-1e1e2e?style=for-the-badge" />
-    <a href="mailto:midhunnk2019@gmail.com"><img src="https://img.shields.io/badge/📧_midhunnk2019@gmail.com-1e1e2e?style=for-the-badge" /></a>
+    <a href="mailto:snaveen20012006@gmail.com"><img src="https://img.shields.io/badge/📧_midhunnk2019@gmail.com-1e1e2e?style=for-the-badge" /></a>
     <img src="https://img.shields.io/badge/🤝_Open_to_Collab_(Web_Development)-1e1e2e?style=for-the-badge" />
     <img src="https://img.shields.io/badge/🥷_Vigilante_(Secret)-1e1e2e?style=for-the-badge" />
   </p>
@@ -29,19 +29,19 @@
     <img src="https://img.shields.io/badge/DEV.to-0A0A0A?style=for-the-badge&logoColor=white" />
   </a>
 
-  <a href="https://discord.com/users/midhun_n">
+  <a href="https://discord.com/users/naveen4855g">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logoColor=white" />
   </a>
 
-  <a href="https://github.com/Midhun-Nk">
+  <a href="https://github.com/Naveen-kumar-38">
     <img src="https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logoColor=white" />
   </a>
 
-  <a href="https://instagram.com/mike.devlogs">
+  <a href="https://instagram.com/peace_seeker_naveen">
     <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logoColor=white" />
   </a>
 
-  <a href="https://linkedin.com/in/midhun-nk">
+  <a href="https://linkedin.com/in/naveen-kumar-4855g">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logoColor=white" />
   </a>
 
@@ -49,7 +49,7 @@
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logoColor=white" />
   </a>
 
-  <a href="https://youtube.com/EduMikeStudio">
+  <a href="https://youtube.com/NaveenKumar-mo2vy">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logoColor=white" />
   </a>
 </p>
